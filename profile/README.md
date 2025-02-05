@@ -1,6 +1,6 @@
 # REAL8
 
-Welcome to the **REAL8** repository – a Python-based toolkit for interacting with the REAL8 token on the Stellar platform.
+Welcome to the **REAL8** repository – a toolkit for interacting with the REAL8 token on the Stellar platform.
 
 ## About REAL8
 
